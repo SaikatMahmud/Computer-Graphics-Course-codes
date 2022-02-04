@@ -1,8 +1,10 @@
 # depslib dependency file v1.0
-1514140588 source:c:\users\user\desktop\graphics code\test\main.cpp
-	<GLUT/glut.h>
+1643909305 source:c:\users\user\desktop\graphics code\test\main.cpp
+	<cstdio>
+	<GL/gl.h>
 	<GL/glut.h>
-	<stdlib.h>
+
+1512591001 c:\mingw\include\gl\gl.h
 
 976692172 c:\mingw\include\gl\glut.h
 	<windows.h>
@@ -320,8 +322,6 @@
 
 1512591001 c:\mingw\include\oleidl.h
 	<objfwd.h>
-
-1512591001 c:\mingw\include\gl\gl.h
 
 1512591001 c:\mingw\include\gl\glu.h
 	<stddef.h>
