@@ -17,12 +17,11 @@ glFlush ();
 
 void myInit (void)
 {
-glClearColor(0.0, 0.0, 0.0, 0.0);
+glClearColor(0.0, 0.0, 1.0, 0.0);
 glMatrixMode(GL_PROJECTION);
 glLoadIdentity();
 gluOrtho2D(0.0, 640.0, 0.0, 480.0);
 }
-
 
 
 int main(int argc, char** argv)
